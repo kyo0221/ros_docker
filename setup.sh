@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash
 
 #apt-getリポジトリの追加
 apt-get install curl gnupg lsb-release -y

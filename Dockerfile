@@ -22,4 +22,3 @@ RUN chmod +x /root/setup.sh && /root/setup.sh
 
 # インタラクティブなシェルの起動
 CMD ["/bin/bash"]
-
